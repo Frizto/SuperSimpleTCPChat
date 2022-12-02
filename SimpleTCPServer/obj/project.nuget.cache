@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy+hbABwgSyTjig8lyhcA1hFSioxgo34EkFbSHZzGR43PcJLZtK7jQ37QhLYShB2/KY4cMBSJfQ+WS/wXtH71g==",
+  "success": true,
+  "projectFilePath": "D:\\Code Projects\\C# Course\\SuperSimpleCHAT\\SimpleTCPServer\\SimpleTCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo_\\.nuget\\packages\\supersimpletcp\\3.0.5\\supersimpletcp.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
